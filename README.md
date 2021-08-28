@@ -14,7 +14,7 @@
 - 🦕 Fun fact, **I'm actually a Sauropod**
 
 <h4>All CSS, graphics and illustrations seen in my repositories are made by me 🖌</h4>
-<img width="100" src="https://i.ibb.co/x8xHj4M/Untitled-3-03.png" />
+<img width="100" src="https://i.ibb.co/FJdKbfc/finale-06.png" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardorsario&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorsario" /> </p>
 <h2></h2>
 <h3 align="left">Connect with me:</h3>
