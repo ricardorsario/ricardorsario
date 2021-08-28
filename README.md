@@ -1,4 +1,4 @@
-<h2>Hey 👋🏼 my name is Ricardo</h2>
+<h2>Hey 👋🏼 my name is Ricardo 🧔🏻</h2>
 <h3>A designer and frontend developer in Madrid</h3>
 
 <img width="200" src="https://i.ibb.co/Sn0V48b/IMG-0829.png" />
