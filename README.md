@@ -23,4 +23,4 @@
 
 <img src="https://i.ibb.co/Sn0V48b/IMG-0829.png" />
 
-<p align="left"> <img style="width:200px" src="https://komarev.com/ghpvc/?username=ricardorsario&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorsario" /> </p>
+<p align="left"> <img style="width:100px" src="https://komarev.com/ghpvc/?username=ricardorsario&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorsario" /> </p>
