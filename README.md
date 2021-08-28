@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">A designer and frontend developer living in Madrid</h3>
+<h3 align="center">A designer and frontend developer in Madrid</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardorsario&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorsario" /> </p>
-
-<p align="left"> <a href="https://twitter.com/saurofurtivo" target="blank"><img src="https://img.shields.io/twitter/follow/saurofurtivo?logo=twitter&style=for-the-badge" alt="saurofurtivo" /></a> </p>
 
 - 🌱 I’m currently learning the **Front-End Engineer career path**
 
@@ -13,7 +11,7 @@
 
 - 📄 Know about my experience [linkedin.com/in/ricardorsario](linkedin.com/in/ricardorsario)
 
-- 🦕 Fun fact **I'm actually a Sauropod**
+- 🦕 Fun fact, **I'm actually a Sauropod**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
