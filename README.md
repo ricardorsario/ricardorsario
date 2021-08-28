@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [saurotoro.com](saurotoro.com)
 
-- 💫👉🏼 **Be kind**
+- 💫 **Be kind**
 
 - 📄 Know about my experience [linkedin.com/in/ricardorsario](linkedin.com/in/ricardorsario)
 
