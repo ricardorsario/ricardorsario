@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [saurotoro.com](saurotoro.com)
 
-- 💫 My motto 👉🏼 **Be kind**
+- 💫 My motto 👉🏼 **be kind**
 
 - 📄 Know about my experience [linkedin.com/in/ricardorsario](linkedin.com/in/ricardorsario)
 
