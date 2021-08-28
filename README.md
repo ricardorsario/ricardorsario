@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [saurotoro.com](saurotoro.com)
 
-- 💫 **Be kind**
-
 - 📄 Know about my experience [linkedin.com/in/ricardorsario](linkedin.com/in/ricardorsario)
+
+- 💫 **Be kind**
 
 - 🦕 Fun fact, **I'm actually a Sauropod**
 
