@@ -1,9 +1,9 @@
-<h2>Hey 👋🏼 my name is Ricardo 🧔🏻</h2>
-<h3>A professional designer and frontend developer (student) in Madrid</h3>
+<h2>Hello 👋🏼 I'm Ricardo 🧔🏻</h2>
+<h3>A Front-end Designer and Developer in Madrid</h3>
 
 <img width="200" src="https://i.ibb.co/Sn0V48b/IMG-0829.png" />
 
-- 🌱 I’m currently learning the **Front-End Engineer career path**
+- 🌱 Always learning.
 
 - 👨‍💻 All of my projects are available at [saurotoro.com](saurotoro.com)
 
@@ -11,9 +11,9 @@
 
 - 💫 **Be kind**
 
-- 🦕 I'm half **sauropod**
+- 🦕 Half **sauropod**
 
-<h4>All CSS, graphics and illustrations seen in my repositories are made by me 🖌</h4>
+<h4>I have a big love for CSS, graphics and illustration 🖌</h4>
 <img width="300" src="https://i.ibb.co/FJdKbfc/finale-06.png" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardorsario&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorsario" /> </p>
 <h2></h2>
