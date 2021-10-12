@@ -3,7 +3,7 @@
 
 <img width="200" src="https://i.ibb.co/Sn0V48b/IMG-0829.png" />
 
-- 🌱 Always learning.
+- 🌱 Always learning
 
 - 👨‍💻 All of my projects are available at [saurotoro.com](saurotoro.com)
 
@@ -11,7 +11,7 @@
 
 - 💫 **Be kind**
 
-- 🦕 Half **sauropod**
+- 🦕 Sauropod
 
 <h4>I have a big love for CSS, graphics and illustration 🖌</h4>
 <img width="300" src="https://i.ibb.co/FJdKbfc/finale-06.png" />
