@@ -3,8 +3,6 @@
 
 <img width="200" src="https://i.ibb.co/Sn0V48b/IMG-0829.png" />
 
-- 🌱 Always learning
-
 - 👨‍💻 All of my projects are available at [saurotoro.com](saurotoro.com)
 
 - 📄 Know about my experience [linkedin.com/in/ricardorsario](linkedin.com/in/ricardorsario)
