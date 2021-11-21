@@ -7,9 +7,9 @@
 
 - 📄 know about my experience [linkedin.com/in/ricardorsario](linkedin.com/in/ricardorsario)
 
-- 💫 **be kind**
+- 💫 be kind
 
-<h4>I have a big love for CSS, graphics and illustration 🖌</h4>
+I have a big love for CSS and illustration 🖌
 <img width="300" src="https://i.ibb.co/FJdKbfc/finale-06.png" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardorsario&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorsario" /> </p>
 <h2></h2>
