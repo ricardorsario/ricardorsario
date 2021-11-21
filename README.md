@@ -1,15 +1,13 @@
-<h2>Hello 👋🏼</h2>
-<h3>A Front-end designer and developer in Madrid</h3>
+<h3>Hello 👋🏼</h3>
+<h3>I'm a Front-end designer and developer in Madrid</h3>
 
 <img width="200" src="https://i.ibb.co/Sn0V48b/IMG-0829.png" />
 
-- 👨‍💻 All of my projects are available at [saurotoro.com](saurotoro.com)
+- 👨‍💻 all of my projects are available at [saurotoro.com](saurotoro.com)
 
-- 📄 Know about my experience [linkedin.com/in/ricardorsario](linkedin.com/in/ricardorsario)
+- 📄 know about my experience [linkedin.com/in/ricardorsario](linkedin.com/in/ricardorsario)
 
-- 💫 **Be kind**
-
-- 🦕 Sauropod
+- 💫 **be kind**
 
 <h4>I have a big love for CSS, graphics and illustration 🖌</h4>
 <img width="300" src="https://i.ibb.co/FJdKbfc/finale-06.png" />
