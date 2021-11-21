@@ -1,4 +1,4 @@
-<h2>Hello 👋🏼 I'm Ricardo 🧔🏻</h2>
+<h2>Hello 👋🏼</h2>
 <h3>A Front-end designer and developer in Madrid</h3>
 
 <img width="200" src="https://i.ibb.co/Sn0V48b/IMG-0829.png" />
