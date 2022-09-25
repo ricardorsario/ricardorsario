@@ -1,5 +1,5 @@
 <h3>Hello 👋🏼</h3>
-<h3>I'm a Front-end designer and developer in Madrid</h3>
+<h3>I'm a UX/UI, Web Designer in Madrid</h3>
 
 <img width="200" src="https://i.ibb.co/Sn0V48b/IMG-0829.png" />
 
